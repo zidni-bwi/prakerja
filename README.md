@@ -1,3 +1,8 @@
+### Deployed Site
+Heroku : [Landing Page Heroku](http://landing-zidni.herokuapp.com/)
+
+Repo Github : [Prakerja Repository](https://github.com/zidni-bwi/prakerja)
+
 ### Project Name
 Landing Page Sederhana
 
@@ -27,8 +32,3 @@ Landing Page Sederhana
   + **jquery.min.js**
   + **main.js**
 * **index.html**
-
-### Deployed Site
-Heroku : [Landing Page Heroku](http://landing-zidni.herokuapp.com/)
-
-Repo Github : [Prakerja Repository](https://github.com/zidni-bwi/prakerja)
