@@ -29,4 +29,4 @@ File Lists >
   + **bootstrap.min.js**
   + **jquery.min.js**
   + **main.js**
-* **index.html**
++ **index.html**
