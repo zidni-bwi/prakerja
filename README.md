@@ -1,8 +1,5 @@
-# prakerja
+### Project Name
 Landing Page Sederhana
-
-File Lists >
-
 
 ### Code structure
 
@@ -30,3 +27,7 @@ File Lists >
   + **jquery.min.js**
   + **main.js**
 * **index.html**
+
+### Deployed Site
+[Landing Page Heroku](http://landing-zidni.herokuapp.com/)
+[Github Repository](https://github.com/zidni-bwi/prakerja)
