@@ -3,6 +3,20 @@ Landing Page Sederhana
 
 File Lists >
 
+
+### Code structure
+
+* **/css**
+  + **/components** # Store reusable component
+  + **/repositories**
+  + **/services**
+  + **/views**
+    + **/components** # Store reusable component
+    + **/layouts** # Store reusable layout (single page layout, dashboard layout, error page layout, etc)
+    + **/pages** # Base on routes
+    + **/routes** # Store routes map
+    + **/stores** # Global state (action, reducer and middleware)
+
 |-/css/bootstrap.min.css
 
 |-/css/main.css
