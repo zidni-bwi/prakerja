@@ -24,6 +24,7 @@ Start project http://localhost:3000
 yarn dev -o
 ```
 
+Enjoy
 
 
 
