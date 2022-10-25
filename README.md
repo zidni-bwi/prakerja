@@ -1,8 +1,8 @@
 ## Dependensi
 
-* **NuxtJS (nuxi@3.0.0-rc.12) → Framework Vue 3** cek versi terbaru -> [npmjs.com](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)
-* **VueFlow (@vue-flow/core@1.2.0) Library Diagram** cek versi terbaru -> [npmjs.com](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)
-* **ElementPlus (element-plus@2.2.19) Framework UI** cek versi terbaru -> [npmjs](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)
+* **NuxtJS ([nuxi@3.0.0-rc.12](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)) → Framework Vue 3**
+* **VueFlow ([@vue-flow/core@1.2.0](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)) Library Diagram**
+* **ElementPlus ([element-plus@2.2.19](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)) Framework UI**
 
 ## Setup
 
