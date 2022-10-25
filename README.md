@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Dependensi
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+* **NuxtJS (nuxi@3.0.0-rc.12) → Framework Vue 3**
+* **VueFlow (@vue-flow/core@1.2.0) Library Diagram**
+* **ElementPlus (element-plus@2.2.19) Framework UI**
 
 ## Setup
 
