@@ -24,7 +24,6 @@ Start project http://localhost:3000
 yarn dev -o
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
 
 
