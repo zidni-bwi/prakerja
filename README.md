@@ -1,4 +1,4 @@
-# Dependensi
+## Dependensi
 
 * **NuxtJS (nuxi@3.0.0-rc.12) → Framework Vue 3**
 * **VueFlow (@vue-flow/core@1.2.0) Library Diagram**
