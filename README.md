@@ -1,34 +1,3 @@
-## Dependensi
-
-* **NuxtJS ([nuxi@3.0.0-rc.12](https://www.npmjs.com/package/nuxi?activeTab=versions)) → Framework Vue 3**
-* **VueFlow ([@vue-flow/core@1.2.0](https://www.npmjs.com/package/@vue-flow/core?activeTab=versions)) Library Diagram**
-* **ElementPlus ([element-plus@2.2.19](https://www.npmjs.com/package/element-plus?activeTab=versions)) Framework UI**
-
-## Setup
-
-install dependensi & setup project:
-
-```bash
-git clone https://github.com/bimasaktialterra/startrek-dash
-
-cd startrek-dash
-
-yarn install
-```
-
-## Development Server
-
-Start project http://localhost:3000
-
-```bash
-yarn dev -o
-```
-
-Hv a nice day
-
-
-
-
 ### Deployed Site & Source Code
 Heroku : [Landing Page Heroku](http://landing-zidni.herokuapp.com/)
 
